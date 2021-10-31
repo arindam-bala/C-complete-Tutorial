@@ -1,0 +1,18 @@
+OOPs - Classes and Objects
+C++ --> initially called --> C with classes by Stroustroup
+class --> extension of structures (in C) 
+Structures had limitations
+        - members are public
+        - No methods
+Classes --> Structures + more
+Classes --> can have methods and properties
+Classes --> can make few members as private & few as public
+Structures in C++ are typedefed
+YOU can declare objects along with class declaration like 
+this:
+            class Employee {
+                //class defination 
+            } arindam, bikram, soumen;
+
+arindam.salary --> makes no sense if salary is private
+     
